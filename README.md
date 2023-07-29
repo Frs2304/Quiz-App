@@ -1,6 +1,6 @@
-# Quiz App
+# Quizify
 
-The Quiz App is a web application developed using Next.js, a popular React framework for building server-side rendered and static websites. This app allows users to participate in quizzes on various topics and test their knowledge while having a fun and interactive experience.
+Quizify is a web application developed using Next.js, a popular React framework for building server-side rendered and static websites. This app allows users to participate in quizzes on various topics and test their knowledge while having a fun and interactive experience.
 
 ## Features
 
